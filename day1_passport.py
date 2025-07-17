@@ -3,13 +3,13 @@ print("🌴🏝️ Welcome to Code Island! 🏝️🌴")
 print("Before you begin your journey, let's create your DIGITAL PASSPORT.\n")
 
 # Collect basic info
-name = input("👤 What's your full name? ")
-age = input("🎂 How old are you? ")
-emoji = input("😄 What's your favorite emoji? ")
-color = input("🎨 What's your favorite color? ")
-dream_job = input("💼 What's your dream job? ")
-code_name = input("🕵️‍♂️ Choose a cool code name for your passport: ")
-island = input("🏖️ Name a magical island you'd love to visit: ")
+name = input("Sarah Ojanta")
+age = input("15 years old")
+emoji = input("🤑")
+color = input("Green")
+dream_job = input("CEO")
+code_name = input("zork")
+island = input("Mahamas")
 
 # Generate passport
 print("\n🔒 Generating your secure passport...\n")
